@@ -6,5 +6,5 @@ Resources:
       Properties:
         TaskDefinition: <TASK_DEFINITION>
         LoadBalancerInfo:
-          ContainerName: "aws-cicd-capstone"
+          ContainerName: aws-cicd-capstone
           ContainerPort: 3000
